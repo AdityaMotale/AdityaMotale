@@ -11,15 +11,9 @@
 
 ## 🔥 Streak Stats
 
-<p align="center">
-    <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-        <img alt="Streak Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=AdityaMotale&fire=tomato&sideLabels=F00&theme=radical&date_format=dF[, Y]&fire=tomato&background=1F222E&hide_border=true&dates=B17CE2&currStreakLabel=F8D866&sideLabels=F8D866&currStreakNum=F85D7F&ring=tomato"/>
-     </a>
-</p>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=AdityaMotale&theme=shades-of-purple&hide_border=true&dates=B17CE2&currStreakLabel=F8D866&sideLabels=F8D866&currStreakNum=F85D7F&ring=tomato&fire=tomato&background=1F222E&stroke=50525B&sideNums=F85D7F)](https://git.io/streak-stats)
 
 ## 📊 My Github Stats
-
-<br/>
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img alt="DenverCoder1's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=AdityaMotale&show_icons=true&count_private=true&theme=shades-of-purple&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/>
   </a>
@@ -33,8 +27,8 @@
 
 <br/>
 
-  <a href="https://github.com/AdityaMotale/CSE-Sem-IV-practicals"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=AdityaMotale&repo=CSE-Sem-IV-practicals&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=true" alt="Practicals"></a>
-  <a href="https://github.com/AdityaMotale/wallpix"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=AdityaMotale&repo=WallPix&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=true" alt="WallPix"></a>
+<a href="https://github.com/AdityaMotale/CSE-Sem-IV-practicals"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=AdityaMotale&repo=CSE-Sem-IV-practicals&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=true" alt="Practicals"></a>
+<a href="https://github.com/AdityaMotale/wallpix"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=AdityaMotale&repo=WallPix&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=true" alt="WallPix"></a>
 <br/>
 
 <p align="left">
@@ -55,5 +49,3 @@
 <img alt="Firebase" src="https://img.shields.io/badge/Firebase-121011.svg?logo=Firebase&logoColor=blue&background=white&?style=plastic&color=f9f9f9&?labelColor=fff">
 <img alt="Android" src="https://img.shields.io/badge/Android-121011.svg?logo=Android&logoColor=blue&background=white&?style=plastic&color=f9f9f9&?labelColor=fff">
 <img alt="Linux" src="https://img.shields.io/badge/Linux-121011.svg?logo=Linux&logoColor=blue&background=white&?style=plastic&color=f9f9f9&?labelColor=fff">
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=AdityaMotale&theme=shades-of-purple&hide_border=true)](https://git.io/streak-stats)
