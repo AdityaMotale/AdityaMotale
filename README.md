@@ -4,8 +4,8 @@
 
 ## About's 🤪
 
-- 👨‍💻 Currently working on [NestFi App](https://github.com/nestficlub)
-- 🌱 Learning more about Blockchain 💸
+- 👨‍💻 Currently working on Personal Projects
+- 🤖 Focusing on Deep Learning
 - 💬 Ask me about Flutter and React
 - ⚡ Fun fact: I'm a big Fan of [Kishor Daa](https://en.wikipedia.org/wiki/Kishore_Kumar) ☢️
 
