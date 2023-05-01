@@ -22,7 +22,8 @@
 
 <br/>
 
-<a href="https://github.com/AdityaMotale/CSE-Sem-IV-practicals"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=AdityaMotale&repo=CSE-Sem-IV-practicals&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=true" alt="Practicals"></a>
+<a href="https://github.com/AdityaMotale/ml_compendium"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=AdityaMotale&repo=ml_compendium&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=true" alt="ML Compendium"></a>
+
 <a href="https://github.com/AdityaMotale/wallpix"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=AdityaMotale&repo=WallPix&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=true" alt="WallPix"></a>
 
 <p align="left">
