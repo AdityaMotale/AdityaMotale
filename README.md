@@ -23,3 +23,9 @@ Have a look at my set of projects and my Flutter code style guide which I use,
 ## 🛠️ My Favorite Tools
 
 [![My Favorite Tools](https://skillicons.dev/icons?i=flutter,svelte,nestjs,firebase,supabase,mongodb,gcp,dart,rust,go,kotlin&theme=dark)](https://skillicons.dev)
+
+## 🤝 Connect With Me
+
+I'm always open to discussing technology, ideas, and potential collaborations. Feel free to reach out via [LinkedIn](https://www.linkedin.com/in/aditya-motale/)!
+
+Let's build something amazing together 🙌!
